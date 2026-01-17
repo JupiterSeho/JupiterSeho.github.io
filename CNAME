@@ -1,0 +1,8 @@
+# If you have a custom domain, uncomment and replace with your domain
+# example: portfolio.yourdomain.com
+
+# To use with GitHub Pages custom domain:
+# 1. Uncomment and add your domain below
+# 2. Go to your repository Settings > Pages
+# 3. Enter your custom domain
+# 4. GitHub will automatically handle the CNAME setup
